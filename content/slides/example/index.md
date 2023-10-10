@@ -1,14 +1,16 @@
 ---
 title: ફુલ્ક ઓનલાઈન સંજેલી
-summary: An introduction to using Wowchemy's Slides feature.
-authors: []
-tags:
-  - Tutorials
-categories: []
 date: 2019-02-05
+summary: આજની જાહેરાત
 slides:
   theme: black
   highlight_style: dracula
+authors: []
+tags:
+  - આજની જાહેરાત
+image:
+  filename: benner-fulk-moiz-bhai.jpg
+categories: []
 ---
 આજની જાહેરાત
 
@@ -135,14 +137,14 @@ Press the `S` key to view the speaker notes!
 
 - - -
 
-{{< slide background-image="boards.webp" >}}
+{{< slide background-image="benner-fulk-moiz-bhai.jpg" >}}
 
 ## Custom Slide
 
 Customize the slide style and background
 
 ```markdown
-{{</* slide background-image="boards.webp" */>}}
+{{</* slide background-image="benner-fulk-moiz-bhai.jpg" */>}}
 {{</* slide background-color="#0000FF" */>}}
 {{</* slide class="my-style" */>}}
 ```
