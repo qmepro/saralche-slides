@@ -19,6 +19,6 @@ design:
       - 2rem
       - 0
   background:
-    image: benner-fulk-moiz-bhai.jpg
+    image: ""
 ---
 આજની જાહેરાત ✨
