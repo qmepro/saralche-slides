@@ -10,18 +10,22 @@ slides:
   theme: black
   highlight_style: dracula
 ---
-#  
+આજની જાહેરાત
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
+
 
 - - -
 
-## Features
+## દાહોદ નેશનલ હેલ્થ મિશન ભરતી
 
-* Efficiently write slides in Markdown
-* 3-in-1: Create, Present, and Publish your slides
-* Supports speaker notes
-* Mobile friendly slides
+* 🪃જિલ્લા ફાઇનાન્સ આસિસ્ટન્ટ 
+* 🪃આયુષ તબીબ
+* 🪃RBSK ફાર્માશિષ્ટ
+* 🪃કાઉન્સેલર
+* 🪃પ્રોગ્રામ એસોસિયેટ
+* 🪃CHO
+* 🪃સિકલ સેલ
+* ⏰છેલ્લી તારીખ ૧૯/૧૦/૨૦૨૩
 
 - - -
 
